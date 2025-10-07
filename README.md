@@ -36,8 +36,8 @@
 ## 🧭 Behind the Idea
 Social Spark was built to explore how **AI and human creativity** can collaborate.  
 The goal: 
-1️⃣ make AI feel **personal, not robotic**. 
-2️⃣ help creators and brands generate high-performing, customized captions, titles, and hashtags for Instagram, Facebook, and YouTube—in seconds.
+1️⃣ make AI feel **personal, not robotic**
+2️⃣ help creators and brands generate high-performing, customized captions, titles, and hashtags for Instagram, Facebook, and YouTube—in seconds
 
 > “AI isn’t a replacement for creativity — it’s a reflection of it.”
 
