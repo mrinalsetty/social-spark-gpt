@@ -44,13 +44,14 @@ The goal: make AI feel **personal, not robotic** — helping creators move faste
 ## 🧰 Tech Stack
 - Custom GPT built inside **ChatGPT** (OpenAI platform)  
 - Uses prompt-engineering & structured response formats  
-- Optimized for creators, marketers, and small brands
+- Optimized for creators, marketers, and brands
 
 ---
 
 ## 📣 Connect
-👤 **Created by:** [Mrinal Setty](https://github.com/mrinalsetty)  
-💬 LinkedIn: [linkedin.com/in/mrinalsetty](https://linkedin.com/in/mrinalsetty)
+👤 **Mrinal Setty**  
+💻 [github.com/mrinalsetty](https://github.com/mrinalsetty)  
+💬 [linkedin.com/in/mrinalsetty](https://linkedin.com/in/mrinalsetty)
 
 ---
 
