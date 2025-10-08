@@ -1,7 +1,7 @@
 # ⚡ Social Spark — GPT for Content Creators ✨
 [![Try Social Spark on ChatGPT](https://img.shields.io/badge/Try%20on-ChatGPT-blue)](https://chat.openai.com/g/g-68e57ebe45c08191b6920f68e994c3bb-social-spark-by-mrinal-setty)
 
-**Social Spark** is a custom GPT built inside ChatGPT that helps creators and brands generate high-performing, customized captions, titles, and hashtags for **Instagram**, **Facebook**, and **YouTube** — in seconds.
+**Social Spark** is a custom GPT built inside ChatGPT that helps creators and brands generate high-performing, customized captions, titles, and hashtags for **Instagram/Facebook**, **Twitter**, **YouTube** or **Linkedin**, — in seconds.
 
 ---
 
