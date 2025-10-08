@@ -12,9 +12,9 @@
 
 ## 💡 What it does
 - ✍️ Writes **scroll-stopping captions** that sound natural and human  
-- 🎬 Generates **YouTube titles & descriptions** with emotional hooks  
+- 🎬 Generates ** titles & descriptions** with emotional hooks  
 - 🏷️ Suggests **smart, trending hashtags** tailored to your topic  
-- ⚙️ Lets you choose your platform — Instagram/Facebook or YouTube
+- ⚙️ Lets you choose your platform (Eg. Instagram, Facebook, Twitter, YouTube or Linkedin)
 
 ---
 
