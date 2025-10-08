@@ -39,8 +39,7 @@ The goal:
 1️⃣ Make AI feel **personal, not robotic**
 2️⃣ Help creators and brands generate high-performing, customized captions, titles, and hashtags for Instagram, Facebook, and YouTube—in seconds
 
-> “AI isn’t a replacement for creativity — it’s a reflection of it”.
-> "The better we understand human attention, tone, and timing, the more powerful our tools become".
+> AI isn’t a replacement for creativity — it’s a reflection of it. And, The better we understand human attention, tone, and timing, the more powerful our tools become.
 
 ---
 
